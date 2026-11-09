@@ -1,0 +1,41 @@
+#!/bin/bash
+# ==========================================================
+# auto_record_twitch.sh
+# Monitorea un canal de Twitch y graba automáticamente
+# apenas se pone en vivo, usando Streamlink.
+# ==========================================================
+
+# --- CONFIGURACIÓN ---
+CANAL="${1:-nombre_del_canal}"                    # Pasalo como argumento: ./auto_record_twitch.sh nombre_del_canal
+CARPETA_SALIDA="$HOME/Videos/twitch_vods/$CANAL"  # Dónde se guardan las grabaciones
+CALIDAD="best"                                    # best, 1080p60, 720p60, etc.
+INTERVALO=60                                      # Segundos entre chequeos si está offline
+
+mkdir -p "$CARPETA_SALIDA"
+
+echo "=================================================="
+echo " Monitoreando a: $CANAL"
+echo " Guardando en:   $CARPETA_SALIDA"
+echo " Ctrl+C para detener"
+echo "=================================================="
+
+while true; do
+    # Chequeo rápido: ¿está en vivo? (falla si está offline)
+    if timeout 15 streamlink --twitch-disable-ads --stream-url \
+        "https://twitch.tv/$CANAL" "$CALIDAD" &>/dev/null; then
+
+        FECHA=$(date +"%Y-%m-%d_%H-%M-%S")
+        ARCHIVO="$CARPETA_SALIDA/${CANAL}_${FECHA}.ts"
+        echo "[$FECHA] $CANAL está en vivo. Grabando -> $ARCHIVO"
+
+        # Graba hasta que el stream termine o se corte
+        streamlink --twitch-disable-ads -o "$ARCHIVO" \
+            "https://twitch.tv/$CANAL" "$CALIDAD"
+
+        echo "[$(date +"%Y-%m-%d_%H-%M-%S")] Grabación finalizada."
+    else
+        echo "$(date +"%H:%M:%S") - $CANAL no está en vivo. Reintento en ${INTERVALO}s..."
+    fi
+
+    sleep "$INTERVALO"
+done

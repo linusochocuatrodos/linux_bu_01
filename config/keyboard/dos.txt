@@ -1,0 +1,84 @@
+## 🐉 Paso a paso en Kali Linux
+
+### Paso 1: Instalar keyd
+
+Abrí una terminal en Kali y ejecutá:
+
+```bash
+sudo apt update
+sudo apt install keyd
+```
+
+> Si te dice que no encuentra el paquete, agregá los repositorios de Debian primero:
+> ```bash
+> sudo apt update && sudo apt install -y keyd
+> ```
+> Si aún así no aparece, avisame y te paso la instalación manual desde el repositorio oficial de GitHub.
+
+---
+
+### Paso 2: Crear el archivo de configuración
+
+```bash
+sudo mkdir -p /etc/keyd
+sudo nano /etc/keyd/default.conf
+```
+
+---
+
+### Paso 3: Pegar la configuración
+
+Dentro del editor, copiá y pegá **exactamente** esto:
+
+```ini
+[ids]
+*
+
+[main]
+f4 = 2
+```
+
+Guardá y salí del editor:
+- `Ctrl + O` → `Enter` → `Ctrl + X`
+
+---
+
+### Paso 4: Activar y arrancar el servicio
+
+```bash
+sudo systemctl enable keyd
+sudo systemctl start keyd
+sudo keyd reload
+```
+
+---
+
+### Paso 5: Probar
+
+Abrí cualquier editor de texto o el navegador y probá:
+
+| Apretás | Debería escribir |
+|---|---|
+| `F4` | `2` |
+| `Shift + F4` | `"` |
+| `AltGr + F4` | `@` |
+
+---
+
+## 🔧 Si algo no funciona
+
+**Verificá que el servicio esté corriendo:**
+
+```bash
+sudo systemctl status keyd
+```
+
+Debería decir `active (running)`.
+
+**Si F4 sigue haciendo su función original:**
+
+En Kali (que usa GNOME por defecto), F4 puede tener atajos asignados. Desactivalo en:
+- **Configuración del sistema → Teclado → Atajos de teclado**
+- Buscá cualquier atajo que use `F4` y borralo.
+
+O cambiá la tecla a `Insert`, `Scroll Lock`, `Pause`, etc. editando `/etc/keyd/default.conf` y corriendo `sudo keyd reload`.

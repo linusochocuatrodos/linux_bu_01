@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+
+# ============================================================
+# rec0 - Agrega un momento de un stream a la cola de procesamiento
+# ============================================================
+# Uso:
+#   rec0 <streamer> <url> <minuto> <descripción...>
+#
+# Ejemplo:
+#   rec0 mi_streamer https://kick.com/usuario/videos/abc123 4:07 momento épico
+#
+# Parámetros:
+#   $1  streamer     → Nombre del streamer (sin espacios recomendado)
+#   $2  url          → URL completa del video/VOD
+#   $3  minuto       → Tiempo del momento (formato MM:SS o HH:MM:SS)
+#   $*  descripción  → Texto libre del momento (puede tener espacios)
+# ============================================================
+
+function rec0() {
+    local streamer="$1"
+    local url="$2"
+    local minuto="$3"
+    shift 3
+    local descripcion="$*"
+
+    # Validar que se recibieron todos los argumentos
+    if [[ -z "$streamer" || -z "$url" || -z "$minuto" || -z "$descripcion" ]]; then
+        echo "Uso: rec0 <streamer> <url> <minuto> <descripción...>" >&2
+        echo "Ejemplo: rec0 mi_streamer https://ejemplo.com/video 12:34 descripción del momento" >&2
+        return 1
+    fi
+
+    # ----------------------------------------------------------
+    # Configuración de rutas (modifica estas dos líneas según tu setup)
+    # ----------------------------------------------------------
+    local archivo_cola="$HOME/Directos/momentos.txt"   # Archivo de cola
+    local script_procesador="$HOME/Directos/momento.sh" # Script que procesa la cola
+    # ----------------------------------------------------------
+
+    # Crear directorio si no existe
+    mkdir -p "$(dirname "$archivo_cola")"
+
+    # Escribir en el formato que espera el procesador:
+    # streamer url minuto descripción
+    printf '%s %s %s %s\n' "$streamer" "$url" "$minuto" "$descripcion" >> "$archivo_cola"
+
+    # Ejecutar el procesador
+    if [[ -f "$script_procesador" ]]; then
+        bash "$script_procesador"
+    else
+        echo "Error: no se encontró el script procesador: $script_procesador" >&2
+        return 1
+    fi
+}

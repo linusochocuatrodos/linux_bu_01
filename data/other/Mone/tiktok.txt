@@ -1,0 +1,39 @@
+1. Herramientas para quitar silencios automáticamente
+Quitar los silencios es una excelente idea porque hace el video más dinámico y sube la retención:
+CapCut para PC (Gratis y la más fácil):
+Tiene una función llamada "Eliminar silencios / Pausas". Arrastras el video de 3 horas, el programa detecta automáticamente cuando Antoni no habla y corta todos los huecos muertos en un solo clic. Además, te permite generar subtítulos automáticos instantáneos.
+Auto-Editor (Gratis y ultra rápido):
+Es un programa ligero para PC que analiza el audio de videos largos y te exporta en 5 minutos el video recortado sin silencios.
+Recut / TimeBolt:
+Son programas especializados de pago para YouTubers que limpian silencios de streams largos en segundos.
+2. El "Mínimo Esfuerzo Transformador" que convence al revisor humano
+El revisor de YouTube no se va a mirar tu video de 3 horas; solo mirará los primeros 30 segundos, saltará a la mitad y mirará la descripción. Si haces estos 4 pasos rápidos, tu canal pasará la revisión:
+A. Agrega una Intro propia de 10 a 15 segundos
+Al principio del video, pon un clip rápido del momento más gracioso del directo (como un "tráiler") con un texto en pantalla o tu voz:
+Ejemplo: Pones 5 segundos de Antoni casi cayéndose en la ducha, una pantalla negra que diga: Los mejores momentos del TikTok Live de Antoni con BelaPunk, y recién ahí empieza el video.
+Para YouTube, esto ya demuestra que hubo una selección y edición intencional.
+B. La técnica de los "Capítulos" (Marcadores de tiempo)
+YouTube valora muchísimo a los canales de archivo que hacen trabajo de curaduría. En tu descripción, agrega siempre una lista de capítulos:
+00:00 - Inicio del directo
+14:20 - Charla con el chat
+45:10 - Primera batalla
+1:15:30 - Entra BelaPunk
+1:40:00 - El reto en la ducha
+2:20:00 - Cierre y despedida
+Cuando el revisor de YouTube ve capítulos en la barra de reproducción, considera que el canal aporta utilidad y organización, no un simple "copiar y pegar".
+C. Edición selectiva (Solo en momentos clave)
+No edites las 3 horas:
+En CapCut, ponle subtítulos automáticos únicamente a los 2 o 3 minutos donde ocurre la escena más graciosa (la caída de la ducha o una discusión).
+Hazle un zoom a la cara de Antoni cuando se asuste.
+Pon un efecto de sonido de golpe o risa.
+Con tener 2 o 3 momentos editados así dentro del video, ya puedes defender que el contenido es un resumen/recopilación transformadora.
+3. Sobre acelerar el video al 3%:
+Para los directos de TikTok no hace falta acelerarlo.
+En directos donde hablan personas reales, acelerar el video hace que las voces suenen como ardillas o antinaturales, lo cual molesta a los fans.
+El truco del 3% solo se usa en películas con copyright para confundir al robot de música, pero en directos normales de TikTok no te aportará nada frente a la revisión humana.
+Tu flujo de trabajo rápido de 15 minutos:
+Bajas el directo.
+Lo pasas por CapCut PC para recortar los silencios largos y ponerle una intro de 10 segundos con el mejor momento.
+En la descripción pegas los Capítulos / Minutos de las mejores partes.
+Si sale aviso de música, le das a "Tomar medidas" > "Silenciar solo la canción".
+Haciendo esto, tus videos seguirán siendo largos (más horas de reproducción para ti), pero tendrán el sello de edición necesario para que YouTube te apruebe la monetización cuando alcances los 1.000 suscriptores.

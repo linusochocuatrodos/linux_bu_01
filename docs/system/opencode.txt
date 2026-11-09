@@ -1,0 +1,2 @@
+# Verificacion de credenciales con verde
+opencode auth list

@@ -1,0 +1,14 @@
+path: $HOME/render_chat/
+
+python3 convertir.py VIENDO_SUPER_RAPIDOS_Y_MEGA_FURIOSOS____________________chat.json chat_compatible.json
+
+
+taskset -c 0-3 ./TwitchDownloaderCLI chatrender \
+  -i chat_compatible.json \
+  -o chat_overlay.mov \
+  --background-color="#00000000" \
+  --output-args='-c:v qtrle -pix_fmt argb -threads 2 "{save_path}"' \
+  -w 380 -h 720 \
+  --font-size 18 \
+  --framerate 30 \
+  --outline
