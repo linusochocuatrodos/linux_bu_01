@@ -1,0 +1,3 @@
+# Historial de procesar_live.sh
+# Se agregan registros debajo de este encabezado.
+

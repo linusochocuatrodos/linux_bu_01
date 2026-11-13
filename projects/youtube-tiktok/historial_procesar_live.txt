@@ -6,8 +6,8 @@ Fecha:          2026-10-03 19:07:29
 Evento:         Configuración de edición automática modificada
 Estado:         Guardada
 Tipo:           Configuración automática
-Video original: $HOME/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-03 05-12-44_720p_YA PUEDO PONER ANIMACIONES.mp4
-Carpeta salida: $HOME/Videos/kedenlive/antoni/renderizado_a/tiktok
+Video original: /home/linus/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-03 05-12-44_720p_YA PUEDO PONER ANIMACIONES.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/antoni/renderizado_a/tiktok
 Código:         xq46
 Vocal:          incluido | ganancia 0 dB | pitch 1000 (x1.000)
 No-vocal:       incluido | ganancia -10 dB | pitch 1020 (x1.020)
@@ -23,14 +23,14 @@ Fecha:          2026-10-03 19:14:06
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-03 05-12-44_720p_YA PUEDO PONER ANIMACIONES.mp4
-Carpeta salida: $HOME/Videos/kedenlive/antoni/renderizado_a/tiktok
+Video original: /home/linus/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-03 05-12-44_720p_YA PUEDO PONER ANIMACIONES.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/antoni/renderizado_a/tiktok
 Código:         xq46
 Vocal:          incluido | ganancia 0 dB | pitch 1000 (x1.000)
 No-vocal:       incluido | ganancia -10 dB | pitch 1020 (x1.020)
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 23 (calidad alta)
-Resultado:      $HOME/Videos/kedenlive/antoni/renderizado_a/tiktok/xq46_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/antoni/renderizado_a/tiktok/xq46_procesado.mp4
 Duración origen: 0h 37m 26s
 Tiempo proceso:  0h 06m 25s
 Tiempo Demucs:   0h 02m 39s
@@ -45,14 +45,14 @@ Fecha:          2026-10-04 15:46:08
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-03 02-37-46_720p_andamos activos🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-03 02-37-46_720p_andamos activos🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         cc02
 Vocal:          incluido | ganancia 0 dB | pitch 1000 (x1.000)
 No-vocal:       incluido | ganancia -10 dB | pitch 1020 (x1.020)
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 23 (calidad alta)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/cc02_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/cc02_procesado.mp4
 Duración origen: 3h 23m 50s
 Tiempo proceso:  0h 31m 35s
 Tiempo Demucs:   0h 14m 38s
@@ -67,14 +67,14 @@ Fecha:          2026-10-04 18:16:22
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         ai80
 Vocal:          incluido | ganancia 0 dB | pitch 1000 (x1.000)
 No-vocal:       incluido | ganancia -10 dB | pitch 1020 (x1.020)
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 23 (calidad alta)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/ai80_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/ai80_procesado.mp4
 Duración origen: 1h 42m 34s
 Tiempo proceso:  0h 16m 21s
 Tiempo Demucs:   0h 07m 30s
@@ -89,14 +89,14 @@ Fecha:          2026-10-04 19:00:43
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-03 02-59-26_720p_farmeando guantes claro q yes.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-03 02-59-26_720p_farmeando guantes claro q yes.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         yc31
 Vocal:          incluido | ganancia 0 dB | pitch 1000 (x1.000)
 No-vocal:       incluido | ganancia -10 dB | pitch 1020 (x1.020)
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 23 (calidad alta)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/yc31_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/yc31_procesado.mp4
 Duración origen: 3h 05m 58s
 Tiempo proceso:  0h 28m 46s
 Tiempo Demucs:   0h 13m 13s
@@ -111,8 +111,8 @@ Fecha:          2026-10-04 19:15:38
 Evento:         Configuración de edición automática modificada
 Estado:         Guardada
 Tipo:           Configuración automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         hm80
 Vocal:          incluido | ganancia 0 dB | pitch 1035 (x1.035)
 No-vocal:       quitado
@@ -128,14 +128,14 @@ Fecha:          2026-10-04 19:32:05
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-04 03-39-10_720p_HOLI SABADO.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         hm80
 Vocal:          incluido | ganancia 0 dB | pitch 1035 (x1.035)
 No-vocal:       quitado
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/hm80_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/hm80_procesado.mp4
 Duración origen: 1h 42m 34s
 Tiempo proceso:  0h 16m 10s
 Tiempo Demucs:   0h 07m 19s
@@ -150,14 +150,14 @@ Fecha:          2026-10-04 20:08:44
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-03 02-37-46_720p_andamos activos🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-03 02-37-46_720p_andamos activos🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         hn55
 Vocal:          incluido | ganancia 0 dB | pitch 1035 (x1.035)
 No-vocal:       quitado
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/hn55_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/hn55_procesado.mp4
 Duración origen: 3h 23m 50s
 Tiempo proceso:  0h 31m 12s
 Tiempo Demucs:   0h 14m 26s
@@ -172,14 +172,14 @@ Fecha:          2026-10-04 21:27:04
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-03 02-59-26_720p_farmeando guantes claro q yes.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-03 02-59-26_720p_farmeando guantes claro q yes.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         pi29
 Vocal:          incluido | ganancia 0 dB | pitch 1035 (x1.035)
 No-vocal:       quitado
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/pi29_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/pi29_procesado.mp4
 Duración origen: 3h 05m 58s
 Tiempo proceso:  0h 29m 18s
 Tiempo Demucs:   0h 13m 51s
@@ -194,14 +194,14 @@ Fecha:          2026-10-04 22:16:25
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-04 02-34-13_720p_farmeando guantes claro q yes.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-04 02-34-13_720p_farmeando guantes claro q yes.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         zg37
 Vocal:          incluido | ganancia 0 dB | pitch 1035 (x1.035)
 No-vocal:       quitado
 Velocidad:      103 (x1.0300)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/zg37_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/zg37_procesado.mp4
 Duración origen: 2h 37m 32s
 Tiempo proceso:  0h 24m 44s
 Tiempo Demucs:   0h 11m 28s
@@ -216,14 +216,14 @@ Fecha:          2026-10-06 12:18:32
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición manual
-Video original: $HOME/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-06 05-36-14_720p_YA PUEDO PONER ANIMACIONES.mp4
-Carpeta salida: $HOME/Videos/kedenlive/antoni/renderizado_a/tiktok
+Video original: /home/linus/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-06 05-36-14_720p_YA PUEDO PONER ANIMACIONES.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/antoni/renderizado_a/tiktok
 Código:         fd79
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/antoni/renderizado_a/tiktok/fd79_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/antoni/renderizado_a/tiktok/fd79_procesado.mp4
 Duración origen: 0h 30m 26s
 Tiempo proceso:  0h 05m 34s
 Tiempo Demucs:   0h 02m 22s
@@ -238,8 +238,8 @@ Fecha:          2026-10-06 12:57:53
 Evento:         Registro histórico aplicado como edición automática
 Estado:         Guardado
 Tipo:           Configuración automática
-Video original: $HOME/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-06 05-36-14_720p_YA PUEDO PONER ANIMACIONES.mp4
-Carpeta salida: $HOME/Videos/alf/tiktok_a/tiktok antiguo
+Video original: /home/linus/Videos/alf/tiktok_a/tiktok_@antoniprime96_2026-10-06 05-36-14_720p_YA PUEDO PONER ANIMACIONES.mp4
+Carpeta salida: /home/linus/Videos/alf/tiktok_a/tiktok antiguo
 Código:         hr43
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
@@ -255,14 +255,14 @@ Fecha:          2026-10-06 13:44:09
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-06 02-43-09_720p_HOLA LLEGUE 🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-06 02-43-09_720p_HOLA LLEGUE 🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         tl65
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/tl65_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/tl65_procesado.mp4
 Duración origen: 2h 51m 00s
 Tiempo proceso:  0h 27m 13s
 Tiempo Demucs:   0h 12m 43s
@@ -277,14 +277,14 @@ Fecha:          2026-10-06 14:48:57
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-05 16-05-18_720p_Probando otro horario 3.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-05 16-05-18_720p_Probando otro horario 3.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         ba43
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ba43_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ba43_procesado.mp4
 Duración origen: 1h 35m 06s
 Tiempo proceso:  0h 15m 21s
 Tiempo Demucs:   0h 07m 01s
@@ -300,14 +300,14 @@ Fecha:          2026-10-06 15:51:47
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-06 02-56-23_720p_SOY TOY CHICA.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-06 02-56-23_720p_SOY TOY CHICA.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         iy70
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/iy70_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/iy70_procesado.mp4
 Duración origen: 2h 10m 02s
 Tiempo proceso:  0h 20m 51s
 Tiempo Demucs:   0h 09m 40s
@@ -322,14 +322,14 @@ Fecha:          2026-10-07 10:04:29
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-07 02-48-57_720p_HOLI.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-07 02-48-57_720p_HOLI.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         ug03
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ug03_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ug03_procesado.mp4
 Duración origen: 2h 52m 53s
 Tiempo proceso:  0h 27m 01s
 Tiempo Demucs:   0h 12m 31s
@@ -344,14 +344,14 @@ Fecha:          2026-10-07 16:36:36
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-07 15-13-25_720p_BUENOS DIAS.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-07 15-13-25_720p_BUENOS DIAS.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         on20
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/on20_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/on20_procesado.mp4
 Duración origen: 2h 51m 02s
 Tiempo proceso:  0h 26m 52s
 Tiempo Demucs:   0h 12m 26s
@@ -366,14 +366,14 @@ Fecha:          2026-10-07 18:01:15
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 02-38-16_720p_nose que poner 🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 02-38-16_720p_nose que poner 🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         lt02
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/lt02_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/lt02_procesado.mp4
 Duración origen: 2h 38m 16s
 Tiempo proceso:  0h 25m 02s
 Tiempo Demucs:   0h 11m 36s
@@ -388,14 +388,14 @@ Fecha:          2026-10-07 19:24:23
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 05-17-29_720p_nose que poner 🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 05-17-29_720p_nose que poner 🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         nk07
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/nk07_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/nk07_procesado.mp4
 Duración origen: 0h 49m 09s
 Tiempo proceso:  0h 07m 11s
 Tiempo Demucs:   0h 03m 30s
@@ -410,14 +410,14 @@ Fecha:          2026-10-07 20:13:00
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 17-23-40_720p_holi si asi es.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-07 17-23-40_720p_holi si asi es.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         ki00
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/ki00_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/ki00_procesado.mp4
 Duración origen: 2h 29m 45s
 Tiempo proceso:  0h 23m 29s
 Tiempo Demucs:   0h 10m 47s
@@ -432,14 +432,14 @@ Fecha:          2026-10-08 14:32:50
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-08 03-10-39_720p_Sfarmeo.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-08 03-10-39_720p_Sfarmeo.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         aj13
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/aj13_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/aj13_procesado.mp4
 Duración origen: 2h 39m 44s
 Tiempo proceso:  0h 24m 48s
 Tiempo Demucs:   0h 11m 20s
@@ -454,14 +454,14 @@ Fecha:          2026-10-08 15:08:36
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 02-57-38_720p_Estamos On fire🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 02-57-38_720p_Estamos On fire🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         zh72
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/zh72_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/zh72_procesado.mp4
 Duración origen: 1h 59m 17s
 Tiempo proceso:  0h 18m 52s
 Tiempo Demucs:   0h 08m 32s
@@ -476,14 +476,14 @@ Fecha:          2026-10-09 13:14:55
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-08 15-52-12_720p_Sfarmeo.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-08 15-52-12_720p_Sfarmeo.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         rk74
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rk74_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rk74_procesado.mp4
 Duración origen: 1h 44m 06s
 Tiempo proceso:  0h 16m 32s
 Tiempo Demucs:   0h 07m 29s
@@ -498,14 +498,14 @@ Fecha:          2026-10-09 14:09:47
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 17-27-10_720p_mivhael jakson this here.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 17-27-10_720p_mivhael jakson this here.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         di76
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/di76_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/di76_procesado.mp4
 Duración origen: 2h 53m 43s
 Tiempo proceso:  0h 27m 04s
 Tiempo Demucs:   0h 12m 27s
@@ -520,14 +520,14 @@ Fecha:          2026-10-09 16:56:01
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-09 15-49-28_1080p_Sfarmeo.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-09 15-49-28_1080p_Sfarmeo.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         lm33
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/lm33_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/lm33_procesado.mp4
 Duración origen: 2h 09m 31s
 Tiempo proceso:  0h 44m 10s
 Tiempo Demucs:   0h 09m 02s
@@ -542,14 +542,14 @@ Fecha:          2026-10-09 17:52:19
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 19-02-43_720p_mivhael jakson this here.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-08 19-02-43_720p_mivhael jakson this here.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         jr81
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/jr81_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/jr81_procesado.mp4
 Duración origen: 1h 18m 13s
 Tiempo proceso:  0h 12m 36s
 Tiempo Demucs:   0h 05m 36s
@@ -564,14 +564,14 @@ Fecha:          2026-10-10 22:06:52
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-10 02-57-45_720p_Guantes.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-10 02-57-45_720p_Guantes.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         ez56
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ez56_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/ez56_procesado.mp4
 Duración origen: 2h 56m 58s
 Tiempo proceso:  0h 27m 57s
 Tiempo Demucs:   0h 12m 54s
@@ -586,14 +586,14 @@ Fecha:          2026-10-10 22:29:18
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-10 15-57-18_720p_BATALLITA DE PAREJAS 2V2.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-10 15-57-18_720p_BATALLITA DE PAREJAS 2V2.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         of80
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/of80_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/of80_procesado.mp4
 Duración origen: 2h 16m 10s
 Tiempo proceso:  0h 21m 43s
 Tiempo Demucs:   0h 09m 51s
@@ -608,14 +608,14 @@ Fecha:          2026-10-12 15:06:20
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-09 17-11-36_720p_holi.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-09 17-11-36_720p_holi.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         xv23
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/xv23_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/xv23_procesado.mp4
 Duración origen: 2h 13m 25s
 Tiempo proceso:  0h 21m 02s
 Tiempo Demucs:   0h 09m 39s
@@ -630,14 +630,14 @@ Fecha:          2026-10-12 15:36:35
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-10 03-10-14_720p_noche increible.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-10 03-10-14_720p_noche increible.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         ub91
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/ub91_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/ub91_procesado.mp4
 Duración origen: 2h 37m 51s
 Tiempo proceso:  0h 24m 57s
 Tiempo Demucs:   0h 11m 30s
@@ -652,14 +652,14 @@ Fecha:          2026-10-12 16:04:29
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-11 03-20-21_1080p_sabado de gloria.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-11 03-20-21_1080p_sabado de gloria.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         cj22
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/cj22_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/cj22_procesado.mp4
 Duración origen: 1h 44m 24s
 Tiempo proceso:  0h 23m 29s
 Tiempo Demucs:   0h 07m 28s
@@ -674,14 +674,14 @@ Fecha:          2026-10-12 16:50:41
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-11 03-19-09_1080p_Soy un angel 3.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-11 03-19-09_1080p_Soy un angel 3.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         rk03
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rk03_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rk03_procesado.mp4
 Duración origen: 1h 56m 34s
 Tiempo proceso:  0h 40m 14s
 Tiempo Demucs:   0h 08m 24s
@@ -696,14 +696,14 @@ Fecha:          2026-10-12 17:38:00
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-12 15-58-57_720p_FELIZ INICIO DE SEMANA.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-12 15-58-57_720p_FELIZ INICIO DE SEMANA.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         gx44
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/gx44_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/gx44_procesado.mp4
 Duración origen: 2h 17m 03s
 Tiempo proceso:  0h 46m 17s
 Tiempo Demucs:   0h 09m 59s
@@ -718,14 +718,14 @@ Fecha:          2026-10-12 23:01:28
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-12 15-39-23_720p_al que madruga.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-12 15-39-23_720p_al que madruga.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         gj42
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/gj42_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/gj42_procesado.mp4
 Duración origen: 2h 00m 49s
 Tiempo proceso:  0h 27m 14s
 Tiempo Demucs:   0h 08m 58s
@@ -740,14 +740,14 @@ Fecha:          2026-10-13 11:35:42
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-13 02-03-36_720p_FELIZ INICIO DE SEMANA.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-13 02-03-36_720p_FELIZ INICIO DE SEMANA.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         rw77
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rw77_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/rw77_procesado.mp4
 Duración origen: 3h 04m 45s
 Tiempo proceso:  1h 03m 25s
 Tiempo Demucs:   0h 13m 21s
@@ -762,14 +762,14 @@ Fecha:          2026-10-13 12:18:50
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-13 02-28-27_720p_GLOGLO STARK.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-13 02-28-27_720p_GLOGLO STARK.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         lz29
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/lz29_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/lz29_procesado.mp4
 Duración origen: 2h 46m 56s
 Tiempo proceso:  0h 37m 29s
 Tiempo Demucs:   0h 12m 13s
@@ -784,14 +784,14 @@ Fecha:          2026-10-14 12:30:35
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-14 02-18-03_720p_HAY QUE ASEGURAR FRAGMENTO!.mp4
-Carpeta salida: $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks
+Video original: /home/linus/Videos/emi/tiktok_e/tiktok_@emikukissoy_2026-10-14 02-18-03_720p_HAY QUE ASEGURAR FRAGMENTO!.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks
 Código:         nh29
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/emikukis/renderizado_e/tiktoks/nh29_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/emikukis/renderizado_e/tiktoks/nh29_procesado.mp4
 Duración origen: 3h 21m 21s
 Tiempo proceso:  1h 08m 38s
 Tiempo Demucs:   0h 14m 42s
@@ -806,14 +806,14 @@ Fecha:          2026-10-14 13:16:57
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-14 02-07-10_720p_Bsucando MVP y Moncarcas.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-14 02-07-10_720p_Bsucando MVP y Moncarcas.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         vh99
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/vh99_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/vh99_procesado.mp4
 Duración origen: 3h 16m 11s
 Tiempo proceso:  0h 43m 52s
 Tiempo Demucs:   0h 14m 26s
@@ -828,14 +828,14 @@ Fecha:          2026-10-15 16:32:52
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-14 17-18-01_720p_Bsucando MVP y Moncarcas.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-14 17-18-01_720p_Bsucando MVP y Moncarcas.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         vw40
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/vw40_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/vw40_procesado.mp4
 Duración origen: 2h 00m 06s
 Tiempo proceso:  0h 26m 49s
 Tiempo Demucs:   0h 08m 38s
@@ -850,19 +850,63 @@ Fecha:          2026-10-15 19:25:10
 Evento:         Video completo procesado
 Estado:         Completado
 Tipo:           Edición automática
-Video original: $HOME/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-15 03-12-00_720p_Mañana CUADRILATERO 🥊.mp4
-Carpeta salida: $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok
+Video original: /home/linus/Videos/gloglo/tiktok_g/tiktok_@gloglokingoficial_2026-10-15 03-12-00_720p_Mañana CUADRILATERO 🥊.mp4
+Carpeta salida: /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok
 Código:         wi45
 Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
 No-vocal:       quitado
 Velocidad:      102 (x1.0200)
 Calidad:        CQ 26 (equilibrado)
-Resultado:      $HOME/Videos/kedenlive/gloglo/renderizado_g/tiktok/wi45_procesado.mp4
+Resultado:      /home/linus/Videos/kedenlive/gloglo/renderizado_g/tiktok/wi45_procesado.mp4
 Duración origen: 1h 33m 49s
 Tiempo proceso:  0h 21m 06s
 Tiempo Demucs:   0h 06m 43s
 Tiempo audio:    0h 02m 15s
 Tiempo render:   0h 11m 16s
+Avisos:
+  ninguno
+============================================
+
+================ HISTORIAL ================
+Fecha:          2026-11-12 21:33:49
+Evento:         Video completo procesado
+Estado:         Completado
+Tipo:           Edición automática
+Video original: /home/linus/Videos/latecito/720/twitch_latesitoo_2026-10-08 04-02-44_720p_Just Chatting_ULTIMO STREAM ANTES DE LA BODA ROJA 🥳🥳🥳🥳.mp4
+Carpeta salida: /home/linus/Videos/others
+Código:         mz92
+Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
+No-vocal:       quitado
+Velocidad:      102 (x1.0200)
+Calidad:        CQ 26 (equilibrado) | h264_nvenc p5 | AAC 160k
+Resultado:      /home/linus/Videos/others/mz92_procesado.mp4
+Duración origen: 2h 08m 26s
+Tiempo proceso:  0h 26m 53s
+Tiempo Demucs:   0h 09m 07s
+Tiempo audio:    0h 03m 05s
+Tiempo render:   0h 13m 50s
+Avisos:
+  ninguno
+============================================
+
+================ HISTORIAL ================
+Fecha:          2026-11-12 22:06:32
+Evento:         Video completo procesado
+Estado:         Completado
+Tipo:           Edición automática
+Video original: /home/linus/Videos/latecito/720/twitch_latesitoo_2026-10-08 04-02-44_720p_Just Chatting_ULTIMO STREAM ANTES DE LA BODA ROJA 🥳🥳🥳🥳.mp4
+Carpeta salida: /home/linus/Videos/others
+Código:         ot82
+Vocal:          incluido | ganancia 0 dB | pitch 1020 (x1.020)
+No-vocal:       quitado
+Velocidad:      102 (x1.0200)
+Calidad:        CQ 26 (equilibrado)
+Resultado:      /home/linus/Videos/others/ot82_procesado.mp4
+Duración origen: 2h 08m 26s
+Tiempo proceso:  0h 26m 50s
+Tiempo Demucs:   0h 08m 58s
+Tiempo audio:    0h 03m 10s
+Tiempo render:   0h 13m 51s
 Avisos:
   ninguno
 ============================================
